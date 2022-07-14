@@ -21,6 +21,5 @@ make
 <p> Caller is the Haskell function whereas called is the C functions </p>
 
 After compiling with ```make``` (MakeFile) you should see the compiled files of .c files. <br />
-The values of functions are currently static <br />
 To re-run just use:```./Caller```
 
