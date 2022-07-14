@@ -9,5 +9,4 @@ Inside your package manager (i.e., stack) run:
 
 ```
 $ cabal install --lib c2hs
-
 ```
