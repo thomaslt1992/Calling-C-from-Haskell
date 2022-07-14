@@ -3,7 +3,7 @@ This is a very simple wrapping of existing sources on how to call C functions in
 
 To run the code:
 
-#Prerequisites
+<b>Prerequisites</b>
 
 Inside your package manager (i.e., stack) run:
 
