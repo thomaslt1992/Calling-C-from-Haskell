@@ -17,3 +17,7 @@ git clone https://github.com/thomaslt1992/Calling-C-from-Haskell.git
 make 
 ./CallerBacker
 ```
+
+After compiling with ```make``` (MakeFile) you should see the compiled files of .c files.
+For errors make sure that you have the gcc compiler installed and alligned to the path.
+
