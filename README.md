@@ -18,8 +18,8 @@ make
 ./CallerBacker
 ```
 
-After compiling with ```make``` (MakeFile) you should see the compiled files of .c files. \n
-The values of functions are currently static \n
+After compiling with ```make``` (MakeFile) you should see the compiled files of .c files. <br />
+The values of functions are currently static <br />
 To re-run just use 
 ```
 ./Callerback
