@@ -19,5 +19,9 @@ make
 ```
 
 After compiling with ```make``` (MakeFile) you should see the compiled files of .c files.
-For errors make sure that you have the gcc compiler installed and alligned to the path.
+The values of functions are currently static
+To re-run just use 
+```
+./Callerback
+```
 
