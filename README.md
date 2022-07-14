@@ -10,3 +10,9 @@ Inside your package manager (i.e., stack) run:
 ```
 $ cabal install --lib c2hs
 ```
+
+## To run the code as an example
+``` git clone https://github.com/thomaslt1992/Calling-C-from-Haskell.git
+    make 
+    ./CallerBacker
+```
