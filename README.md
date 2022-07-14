@@ -15,13 +15,15 @@ $ cabal install --lib c2hs
 ``` 
 git clone https://github.com/thomaslt1992/Calling-C-from-Haskell.git
 make 
-./CallerBacker
+./Caller
 ```
+
+<p> Caller is the Haskell function whereas called is the C functions </p>
 
 After compiling with ```make``` (MakeFile) you should see the compiled files of .c files. <br />
 The values of functions are currently static <br />
 To re-run just use 
 ```
-./Callerback
+./Caller
 ```
 
